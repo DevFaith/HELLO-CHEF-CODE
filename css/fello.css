@@ -1,0 +1,355 @@
+.body{
+padding: 0;
+margin: 0;
+
+}
+.page1{
+height: 100vh;
+width: 100%;
+}
+.main{
+height: 10%;
+width: 100%;
+background-color: white;
+margin-top: 20px;
+}
+.nar{
+display: flex;
+justify-content: flex-end;
+text-align: justify;
+align-items: center;
+margin-right: 40px;
+}
+.nar li{
+margin: 10px;
+list-style: none;
+font-size: 20px;
+}
+.nar button{
+padding: 16px;
+height: 10%;
+width: 8%;
+background-color: red;
+color: white;
+border: none;
+border-radius: 30px;
+font-size: 19px;
+}
+.comp{
+height: 70%;
+width: 100%;
+background-image: url(/images/banner.webp);
+background-size: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+.comp h1{
+font-size: 60px;
+color: rgb(71, 70, 70);
+
+}
+.comp p{
+font-size: 35px;
+color: rgb(105, 102, 102);
+
+}
+.page2{
+height: 80vh;
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 70px;
+}
+.box1{
+height: 80%;
+width: 40%;
+background-image: url(/images/box1.webp);
+background-size: cover;
+border-radius: 30px;
+}
+.ail{
+height: 100px;
+width: 40%;
+margin-left: 50px;
+}
+.ail h1{
+font-size: 40px;
+color:rgb(46, 44, 44);
+font-weight: 400;
+}
+.ail p{
+font-size: 25px;
+color: gray;
+font-weight: 300;
+}
+.ail button{
+background-color: red;
+color:white;
+padding: 15px;
+border: none;
+border-radius: 15px;
+font-size: 16px;
+
+}
+.page3{
+    height: 90vh;
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 70px;
+}
+.box2{
+    height: 80%;
+width: 40%;
+background-image: url(/images/box2.webp);
+background-size: cover;
+border-radius: 30px;
+}
+.content{
+    height: 100px;
+width: 40%;
+margin-left: 50px;
+}
+.content h1{
+    font-size: 40px;
+color:rgb(46, 44, 44);
+font-weight: 400;
+}
+.content p{
+    font-size: 25px;
+    color: gray;
+    font-weight: 300;
+
+}
+.page4{
+    height: 90vh;
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 70px;
+}
+.box3{
+    height: 80%;
+    width: 40%;
+    background-image: url(/images/box3.webp);
+    background-size: cover;
+    border-radius: 30px;
+}
+.size{
+    height: 100px;
+    width: 40%;
+    margin-left: 50px;
+}
+.sizeh1{
+    font-size: 40px;
+    color:rgb(46, 44, 44);
+    font-weight: 400;
+}
+.size p{
+    font-size: 25px;
+    color: gray;
+    font-weight: 300;
+}
+.page5{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+}
+.box4{
+    height: 80%;
+    width: 40%;
+    background-image: url(/images/box4.webp);
+    background-size: cover;
+    border-radius: 30px;
+}
+.radius{
+    height: 100px;
+    width: 40%;
+    margin-left: 50px;
+}
+.radius h1{
+    font-size: 40px;
+    color:rgb(46, 44, 44);
+    font-weight: 400;
+}
+.radius p{
+    font-size: 25px;
+    color: gray;
+    font-weight: 300;
+}
+.radius button{
+    background-color: red;
+    color:white;
+    padding: 15px;
+    border: none;
+    border-radius: 15px;
+    font-size: 16px;
+    height: 45px;
+    
+}
+.page6{
+height: 90vh;
+width: 100%;
+background-color: whitesmoke;
+
+}
+.chf{
+    height: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chf img{
+    height: 30%;
+    width: 10%;
+    }
+.carer{
+height: 30%;
+width: 100%;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+.heko1{
+height: 50%;
+width: 20%;
+}
+.heko1 h1{
+font-size: 30px;
+color: rgb(78, 75, 75);
+}
+.heko1 p{
+color: gray;
+font-size: 20px;
+}
+.heko2{
+    height: 50%;
+    width: 20%;
+    }
+    .heko2 h1{
+    font-size: 30px;
+    color: rgb(78, 75, 75)
+    }
+    .heko2 p{
+    color: gray;
+    font-size: 20px;
+    }
+    .heko3{
+        height: 50%;
+        width: 20%;
+        }
+        .heko3 h1{
+        font-size: 30px;
+        color: rgb(78, 75, 75)
+        }
+        .heko3 p{
+        color: gray;
+        font-size: 20px;
+        }
+.heko4{
+    height: 50%;
+    width: 20%; 
+}
+.heko4 h1{
+    font-size: 30px;
+    color: rgb(78, 75, 75)
+    }
+.heko4 img{
+    height: 40%;
+    width: 20%;
+}
+
+.heko4 p{
+    color: gray;
+    font-size: 20px;
+    }
+
+    .heko5{
+        height: 50%;
+        width: 20%;
+        }
+        .heko5 h1{
+        font-size: 30px;
+        color: rgb(78, 75, 75)
+        }
+        .heko5 p{
+        color: gray;
+        font-size: 20px;
+        }
+        .news{
+            height: 30%;
+            width: 100%;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+        }
+            .heko6{
+                height: 50%;
+                width: 20%;
+                }
+                .heko6 h1{
+                font-size: 20px;
+                color: rgb(78, 75, 75)
+                }
+                .heko6 button{ 
+                    height: 48px;
+                    padding: 12px;
+                    border: none;
+                    background-color: red;
+                    color: white;
+                }
+                .heko6 input{
+                   height: 48px;
+                   background-color: rgb(230, 210, 210);
+                    border: none;
+                }
+                .heko7{
+                    height: 50%;
+                    width: 20%;
+                    }
+                    .heko7 h1{
+                    font-size: 20px;
+                    color: rgb(78, 75, 75)
+                    }
+                    .heko8{
+                        height: 50%;
+                        width: 20%;
+                        }
+                        .heko8 h1{
+                        font-size: 20px;
+                        color: rgb(78, 75, 75)
+                        }
+
+                        .put{
+                            height: 20%;
+                            width: 100%;
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                            
+                        }
+.blic{
+color: red;
+text-decoration: underline;
+}
+.heko9 h1{
+    font-size: 30px;
+    color: rgb(78, 75, 75);
+    margin-left: 40%;
+    
+    }
+    .heko9 p{
+    color: gray;
+    font-size: 20px;
+    }
